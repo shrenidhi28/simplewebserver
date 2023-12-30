@@ -22,8 +22,14 @@ Testing the webserver.
 
 ## PROGRAM:
 
+![image](https://github.com/shrenidhi28/simplewebserver/assets/155261096/7c695642-4442-4dfe-8808-9a339ce0761c)
+
+
 
 ## OUTPUT:
+
+![image](https://github.com/shrenidhi28/simplewebserver/assets/155261096/633b96d0-09f6-479b-8cf7-a82c8a6f2a5f)
+
 
 
 ## RESULT:
